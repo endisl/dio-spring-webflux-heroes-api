@@ -1,4 +1,4 @@
-## API de Heroes da Marvel
+## API reativa para gerenciamento de Heroes da Marvel e da DC
 
 ### Tecnologias utilizadas no projeto:  
 
